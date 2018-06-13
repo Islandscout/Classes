@@ -14,3 +14,4 @@ public class Classes extends JavaPlugin {
         getLogger().info("Classes disabled");
     }
 }
+public static int
