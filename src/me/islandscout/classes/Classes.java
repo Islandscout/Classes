@@ -14,4 +14,4 @@ public class Classes extends JavaPlugin {
         getLogger().info("Classes disabled");
     }
 }
-public static int
+public int Island=69;
